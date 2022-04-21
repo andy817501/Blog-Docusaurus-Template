@@ -8,15 +8,15 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Ylt\'s Wiki',
+    title: 'XXX\'s Wiki',
     tagline: '^_^',
-    url: 'https://yltzdhbc.top',
+    url: 'https://XXXXX.top',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/earth.svg',
-    organizationName: 'yltzdhbc', // Usually your GitHub org/user name.
-    projectName: 'Ylt_Wiki', // Usually your repo name.
+    organizationName: 'XXXX', // Usually your GitHub org/user name.
+    projectName: 'XXXX', // Usually your repo name.
 
     themes: [
         // ... Your other themes.
@@ -39,13 +39,15 @@ const config = {
 
     presets: [
         [
-            'classic',
+            '@docusaurus/preset-classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
-                googleAnalytics: {
-                    trackingID: 'UA-152900803-1',
-                    anonymizeIP: false,
+
+                gtag: {
+                    trackingID: 'G-XXXXXXXX',
+                    anonymizeIP: false, 
                 },
+
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     sidebarCollapsible: true,
@@ -77,7 +79,7 @@ const config = {
             hideableSidebar: false,
 
             navbar: {
-                title: '满船清梦压星河',
+                title: 'XXXXX',
                 hideOnScroll: true,
                 logo: {
                     alt: "explore",
