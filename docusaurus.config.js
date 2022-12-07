@@ -8,15 +8,15 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'andy\'s Wiki',
+    title: 'Andy\'s Wiki',
     tagline: '^_^',
     url: 'https://www.ama-check023.top/',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/earth.svg',
-    organizationName: 'XXXX', // Usually your GitHub org/user name.
-    projectName: 'XXXX', // Usually your repo name.
+    organizationName: 'Andy', // Usually your GitHub org/user name.
+    projectName: 'Andy', // Usually your repo name.
 
     themes: [
         // ... Your other themes.
