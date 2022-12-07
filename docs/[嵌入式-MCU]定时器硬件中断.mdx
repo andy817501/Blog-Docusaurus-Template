@@ -3,6 +3,18 @@ id: MCU_IRN_YINGJIAN
 title: 定时器硬件中断
 ---
 
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
 ## stm32f10x定时器
 
 对于stm32定时器资源十分丰富，以为本人热衷开发机器人，在选择机器人主控芯片时一般喜欢选择有多达14个定时器资源的stm32f407系列，对于只有几个定时器的arduino来说优秀了太多，利用好了可以实现确定时间间隔的做某件事情，多个定时器中断可以用来做多件事情，不使用延时也能够将程序实现，而且更快，更灵敏。一般我喜欢在裸机开发的时候使用多个定时器进行传感器采集，pid运算等。
@@ -12,15 +24,13 @@ title: 定时器硬件中断
 当 APB1 的时钟分频数为 1 的时候，TIM2~7 以及 TIM12~14 的时钟为APB1 的时钟，
 而如果 APB1 的时钟分频数不为 1，那么 TIM2~7 以及 TIM12~14 的时钟频率将为 APB1 时钟的两倍
 
-定时器的时钟	    频率
-TIM1、TIM8–11	    2*APB2
-TIM2—7、TIM12—14	2*APB1
 
 ![3D1](img/定时器中断/NO2.png)
 
-Tout= ((arr+1)*(psc+1))/Tclk；
 
 ![3D1](img/定时器中断/NO1.png)
+
+<Highlight color="#25c2a0">Tout= ((arr+1)*(psc+1))/Tclk；</Highlight>
 
 ## STM32代码配置
 ### 定时器配置
