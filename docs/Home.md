@@ -1,6 +1,6 @@
 ---
 id: Home
-title: xxx's Wiki
+title: andy's Wiki
 sidebar_label: 主页
 slug: /
 ---
@@ -49,4 +49,4 @@ Hello~
   </div>
 </details>
 
-###### xx xxxx | 2022 | Built with [Docusaurus](https://www.docusaurus.cn/docs)
+###### huang andy | 2022 | Built with [Docusaurus](https://www.docusaurus.cn/docs)
