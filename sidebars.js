@@ -25,7 +25,7 @@ const sidebars = {
             },
             items: [
                 'MCU_TEACH_TIMERGET',
-                // 'MCU_IRN_YINGJIAN',
+                 'MCU_IRN_YINGJIAN',
                 // 'STM-STUDIO',
             ],
         },
