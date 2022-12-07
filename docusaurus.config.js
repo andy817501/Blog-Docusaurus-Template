@@ -8,9 +8,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'XXX\'s Wiki',
+    title: 'andy\'s Wiki',
     tagline: '^_^',
-    url: 'https://XXXXX.top',
+    url: 'https://www.ama-check023.top/',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
@@ -87,12 +87,12 @@ const config = {
                 },
 
                 items: [{
-                    href: "https://space.bilibili.com/35171315",
+                    href: "https://space.bilibili.com/351349919",
                     label: "B站主页",
                     position: "right",
                 },
                 {
-                    href: "https://github.com/yltzdhbc",
+                    href: "https://github.com/andy817501",
                     label: "GITHUB",
                     position: "right",
                 },
