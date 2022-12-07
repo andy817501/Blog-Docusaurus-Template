@@ -17,18 +17,18 @@ const sidebars = {
                 'MODELS3D_VIEW',
             ],
         },
-        // {
-        //     type: 'category',
-        //     label: '嵌入式-MCU',
-        //     link: {
-        //         type: 'generated-index',
-        //     },
-        //     items: [
-        //         'MCU_TEACH_TIMERGET',
-        //         'MCU_IRN_YINGJIAN',
-        //         'STM-STUDIO',
-        //     ],
-        // },
+        {
+            type: 'category',
+            label: '嵌入式-MCU',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'MCU_TEACH_TIMERGET',
+                'MCU_IRN_YINGJIAN',
+                'STM-STUDIO',
+            ],
+        },
         // {
         //     type: 'category',
         //     label: '通讯协议',
