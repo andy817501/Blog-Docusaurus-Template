@@ -1,5 +1,5 @@
 ---
-id: TCP/IP
+id: TCP_IP
 title: TCP/IP协议详解
 ---
 

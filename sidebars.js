@@ -41,7 +41,7 @@ const sidebars = {
                 // 'SPI',
                 // 'CAN',
                 // 'MODBUS',
-                'TCP/IP',
+                'TCP_IP',
             ],
         },
         // {
