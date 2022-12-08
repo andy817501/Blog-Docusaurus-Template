@@ -29,21 +29,21 @@ const sidebars = {
                 // 'STM-STUDIO',
             ],
         },
-        // {
-        //     type: 'category',
-        //     label: '通讯协议',
-        //     link: {
-        //         type: 'generated-index',
-        //     },
-        //     items: [
-        //         'USART',
-        //         'IIC',
-        //         'SPI',
-        //         'CAN',
-        //         'MODBUS',
-        //         'TCP/IP',
-        //     ],
-        // },
+        {
+            type: 'category',
+            label: '通讯协议',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                // 'USART',
+                // 'IIC',
+                // 'SPI',
+                // 'CAN',
+                // 'MODBUS',
+                'TCP/IP',
+            ],
+        },
         // {
         //     type: 'category',
         //     label: '嵌入式-RTOS',
