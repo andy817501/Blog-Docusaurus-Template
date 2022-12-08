@@ -79,7 +79,7 @@ const config = {
             hideableSidebar: false,
 
             navbar: {
-                title: 'Robotics&APS',
+                title: 'Robotics&智能驾驶',
                 hideOnScroll: true,
                 logo: {
                     alt: "explore",
