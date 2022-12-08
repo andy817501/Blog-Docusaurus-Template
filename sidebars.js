@@ -40,7 +40,7 @@ const sidebars = {
                 // 'IIC',
                 // 'SPI',
                 // 'CAN',
-                // 'MODBUS',
+                'MODBUS',
                 'TCP_IP',
             ],
         },
