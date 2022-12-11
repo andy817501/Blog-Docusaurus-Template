@@ -38,10 +38,20 @@ const sidebars = {
             items: [
                 // 'USART',
                 // 'IIC',
-                // 'SPI',
-                // 'CAN',
+                 'LIN',
+                'CAN',
                 'MODBUS',
                 'TCP_IP',
+            ],
+        },
+        {
+            type: 'category',
+            label: '工作软件',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'canoe',
             ],
         },
         // {
