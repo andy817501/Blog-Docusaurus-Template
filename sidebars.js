@@ -38,7 +38,7 @@ const sidebars = {
             items: [
                 // 'USART',
                 // 'IIC',
-                 'LIN',
+                'LIN',
                 'CAN',
                 'MODBUS',
                 'TCP_IP',
