@@ -52,7 +52,6 @@ Hello~我在这里记录一些知识和自己走过的路，以免遗忘
   <div>
     <div>
         3065774543@qq.com<br/>
-        ![3D1](img/home/NO1.png)
     </div>
   </div>
 </details>
