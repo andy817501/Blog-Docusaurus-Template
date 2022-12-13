@@ -54,6 +54,16 @@ const sidebars = {
                 'canoe',
             ],
         },
+        {
+            type: 'category',
+            label: '智能驾驶',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'denji',
+            ],
+        },
         // {
         //     type: 'category',
         //     label: '嵌入式-RTOS',
