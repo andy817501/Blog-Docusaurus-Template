@@ -23,4 +23,4 @@ title: 12月20日计划
 看集极限挑战
 
 ## 今日主打歌
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33367876&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100" src="https://music.163.com/outchain/player?type=2&amp;id=28095355&amp;auto=1&amp;height=100"></iframe>
