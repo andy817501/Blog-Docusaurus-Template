@@ -64,6 +64,16 @@ const sidebars = {
                 'denji',
             ],
         },
+        {
+            type: 'category',
+            label: '今日学习计划',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'plan',
+            ],
+        },
         // {
         //     type: 'category',
         //     label: '嵌入式-RTOS',
