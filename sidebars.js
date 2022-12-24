@@ -52,6 +52,7 @@ const sidebars = {
             },
             items: [
                 'canoe',
+                'CAPL',
             ],
         },
         {
@@ -62,6 +63,7 @@ const sidebars = {
             },
             items: [
                 'denji',
+                'sport',
             ],
         },
         {
