@@ -111,16 +111,16 @@ const sidebars = {
         //         'ros_serial',
         //     ],
         // },
-        // {
-        //     type: 'category',
-        //     label: '机器人_算法',
-        //     link: {
-        //         type: 'generated-index',
-        //     },
-        //     items: [
-        //         'pid',
-        //     ],
-        // },
+        {
+            type: 'category',
+            label: '机器人_算法',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'kl',
+            ],
+        },
         
     ],
 };
