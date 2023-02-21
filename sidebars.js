@@ -65,6 +65,7 @@ const sidebars = {
                 'denji',
                 'sport',
                 'suanfafenlei',
+                'yundong',
             ],
         },
         {
