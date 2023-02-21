@@ -64,6 +64,7 @@ const sidebars = {
             items: [
                 'denji',
                 'sport',
+                'suanfafenlei',
             ],
         },
         {
@@ -120,6 +121,8 @@ const sidebars = {
             items: [
                 'kl',
                 'bys',
+                'EKF',
+                'wuji',
             ],
         },
         
