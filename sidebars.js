@@ -123,7 +123,6 @@ const sidebars = {
                 'kl',
                 'bys',
                 'EKF',
-                'nopli',
             ],
         },
         
