@@ -25,7 +25,8 @@ const sidebars = {
             },
             items: [
                 'MCU_TEACH_TIMERGET',
-                 'MCU_IRN_YINGJIAN',
+                'MCU_IRN_YINGJIAN',
+                'MCU_RT-THREAD-STAR',
                 // 'STM-STUDIO',
             ],
         },
@@ -66,6 +67,7 @@ const sidebars = {
                 'sport',
                 'suanfafenlei',
                 'yundong',
+                'dingwei',
             ],
         },
         {
