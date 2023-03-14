@@ -104,8 +104,8 @@ const config = {
                 links: [{
                     title: '友人帐',
                     items: [{
-                        href: 'https://zhangshitao.top',
-                        label: '强烈推荐！：张工的博客',
+                        href: 'https://prowinter.cn/',
+                        label: '强烈推荐！：邱工的博客',
                     },
                     {
                         href: 'https://blog.csdn.net/qq_44343584',

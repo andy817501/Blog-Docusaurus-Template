@@ -28,6 +28,7 @@ const sidebars = {
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
                 // 'STM-STUDIO',
+                'MCU_RT-THREAD-SPI-CAN',
             ],
         },
         {
