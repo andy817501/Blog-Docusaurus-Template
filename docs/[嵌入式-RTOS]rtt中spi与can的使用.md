@@ -1,5 +1,5 @@
 ---
-id: MCU_RT-THREAD-STAR
+id: MCU_RT-THREAD-SPI-CAN
 title: RT-thread中得SPI与CAN的使用
 ---
 ## RT-thread中spi使用
