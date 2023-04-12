@@ -6,17 +6,6 @@ const sidebars = {
     docs: [
 
         'Home',
-
-        {
-            type: 'category',
-            label: '高效工作指南',
-            link: {
-                type: 'generated-index',
-            },
-            items: [
-                'MODELS3D_VIEW',
-            ],
-        },
         {
             type: 'category',
             label: '嵌入式-MCU',
@@ -24,6 +13,7 @@ const sidebars = {
                 type: 'generated-index',
             },
             items: [
+                'kyuan_jianpan',
                 'MCU_TEACH_TIMERGET',
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
