@@ -17,10 +17,9 @@ const sidebars = {
                 'MCU_TEACH_TIMERGET',
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
-                // 'STM-STUDIO',
                 'MCU_RT-THREAD-SPI-CAN',
                 'MCU_USB',
-                'MCU_FOC',
+                'focsuanfa',
             ],
         },
         {
