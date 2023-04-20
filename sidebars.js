@@ -18,7 +18,7 @@ const sidebars = {
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
                 'MCU_RT-THREAD-SPI-CAN',
-                'MCU_FOC',
+                'ANDY_FOC',
             ],
         },
         {
