@@ -14,7 +14,6 @@ const sidebars = {
             },
             items: [
                 'kyuan_jianpan',
-                'MCU_FOC',
                 'MCU_TEACH_TIMERGET',
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
