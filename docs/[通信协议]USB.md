@@ -13,7 +13,7 @@ title: USB2.0协议
 ![3D1](img/USB/biji3.jpg)
 
 对于Transaction的最小单位是信号包
-信号包分为5个内容
+信号包分为5个内容:
 ![3D1](img/USB/pid.png)
 ![3D1](img/USB/adress.png)
 ![3D1](img/USB/zhenghao.png)
