@@ -1,5 +1,5 @@
 ---
-id: MCU_FOC
+id: MCU_LOVE_MCU
 title: FOC算法(磁场定向控制)
 ---
 ## FOC算法框架

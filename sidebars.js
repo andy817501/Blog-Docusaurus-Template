@@ -18,6 +18,7 @@ const sidebars = {
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
                 'MCU_RT-THREAD-SPI-CAN',
+                'MCU_LOVE_MCU',
             ],
         },
         {
