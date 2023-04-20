@@ -13,12 +13,12 @@ const sidebars = {
                 type: 'generated-index',
             },
             items: [
+                'MCU_FOC',
                 'kyuan_jianpan',
                 'MCU_TEACH_TIMERGET',
                 'MCU_IRN_YINGJIAN',
                 'MCU_RT-THREAD-STAR',
                 'MCU_RT-THREAD-SPI-CAN',
-                'ANDY_FOC',
             ],
         },
         {
