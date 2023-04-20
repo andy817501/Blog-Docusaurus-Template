@@ -1,6 +1,6 @@
 ---
-id: MCU_LOVE_MCU
-title: FOC算法(磁场定向控制)
+id: foc
+title: 定时器正交解码
 ---
 ## FOC算法框架
 ![3D1](img/FOC/NO1.png)
