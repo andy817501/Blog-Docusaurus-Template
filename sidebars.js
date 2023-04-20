@@ -20,7 +20,7 @@ const sidebars = {
                 // 'STM-STUDIO',
                 'MCU_RT-THREAD-SPI-CAN',
                 'MCU_USB',
-                'FOC',
+                'MCU_FOC',
             ],
         },
         {
