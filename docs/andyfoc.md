@@ -1,6 +1,6 @@
 ---
 id: foc
-title: 定时器正交解码
+title: FOC算法
 ---
 ## FOC算法框架
 ![3D1](img/FOC/NO1.png)
