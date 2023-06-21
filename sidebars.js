@@ -34,6 +34,7 @@ const sidebars = {
                 'MODBUS',
                 'TCP_IP',
                 'MCU_USB',
+                'GPS_NMEA0138',
             ],
         },
         {
