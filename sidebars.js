@@ -80,9 +80,9 @@ const sidebars = {
             },
             items: [
                 'fork',
+                'thread',
                 'signal',
                 'pipe',
-                'thread',
             ],
         },
         // {
