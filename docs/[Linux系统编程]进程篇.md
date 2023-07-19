@@ -138,7 +138,7 @@ int main(void)
 
 ### exit()与wait()函数
 #### exit()
-对与exit（）函数可以做到清除 IO 缓冲区，终止程序的作用。
+对于exit（）函数可以做到清除 IO 缓冲区，终止程序的作用。
 ![3D1](img/Linux系统编程/exit.png)
 exit会传入一个参数status，这个参数表示的是进程终止时的状态码，0表示正常终止， 其他非0值表示异常终止，一般都可以使用-1或者1表示，标准C里有EXIT_SUCCESS和EXIT_FAILURE两个宏， 表示正常与异常终止。
 而exit与_exit的区别仅仅在于清除I/O缓冲

@@ -80,6 +80,7 @@ const sidebars = {
             },
             items: [
                 'fork',
+                'signal',
             ],
         },
         // {
