@@ -72,6 +72,16 @@ const sidebars = {
                 'plan',
             ],
         },
+        {
+            type: 'category',
+            label: 'Linux系统编程',
+            link: {
+                type: 'generated-index',
+            },
+            items: [
+                'fork',
+            ],
+        },
         // {
         //     type: 'category',
         //     label: '嵌入式-RTOS',
