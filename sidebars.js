@@ -81,6 +81,7 @@ const sidebars = {
             items: [
                 'fork',
                 'signal',
+                'pipe',
             ],
         },
         // {
