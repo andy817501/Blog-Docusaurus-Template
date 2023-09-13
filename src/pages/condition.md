@@ -1,6 +1,6 @@
 ---
-title: my hello page title
-description: my hello page description
+title: my condition page title
+description: my condition page description
 hide_table_of_contents: false
 ---
 ![3D1](../../docs/img/东阳/logo_中车.png)
@@ -34,6 +34,17 @@ hide_table_of_contents: false
 按监测报告，厂区废水COD排放浓度均值为284mg/L，NH3-N浓度为55.4 mg/L。
 #### 2、废气排放情况：
 生产过程主要工作为大部件的吊装、连接螺栓的紧固装配、各电气部件之间的布线接线，不消耗燃料，全过程无有组织废气排放，不产生环保部门重点监管的S02 、NOx、VOCs等污染物。
+
+![3D1](../../docs/img/东阳/23.2%20检测报告_00.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_01.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_03.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_04.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_05.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_06.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_07.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_08.png)
+![3D1](../../docs/img/东阳/23.2%20检测报告_09.png)
+
 #### 3、危废处置情况：
 2022年全年共产生18.17吨危险废物，均通过具备资质的危废处置公司进行转移处置，并在湖南省固体废物管理信息平台申报备案。
 
@@ -48,12 +59,11 @@ hide_table_of_contents: false
 | 2  | 清洗剂  | 化学品 | 45   | 31500  | L  |
 | 3  | 防腐涂料 | 化学品 | 6    | 4200   | Kg |
 
-![3D1](../../docs/img/东阳/23.2%20检测报告_00.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_01.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_03.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_04.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_05.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_06.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_07.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_08.png)
-![3D1](../../docs/img/东阳/23.2%20检测报告_09.png)
+
+![3D1](../../docs/img/东阳/1.png)
+![3D1](../../docs/img/东阳/2.png)
+![3D1](../../docs/img/东阳/3.png)
+![3D1](../../docs/img/东阳/4.png)
+![3D1](../../docs/img/东阳/5.png)
+![3D1](../../docs/img/东阳/6.png)
+![3D1](../../docs/img/东阳/7.png)

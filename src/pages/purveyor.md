@@ -1,6 +1,6 @@
 ---
-title: zzsfd
-description: my zzsfd page description
+title: purveyor
+description: my purveyor page description
 hide_table_of_contents: false
 ---
 ![3D1](../../docs/img/东阳/logo_中车.png)
@@ -8,6 +8,9 @@ hide_table_of_contents: false
 # 2022年供应商评价报告
 根据《中车株洲电力机车研究所有限公司风电事业部采购管理办法》、《中车株洲电力机车研究所有限公司风电事业部供应商管理办法》，现将2022年度供应商年度评分情况及部分供应商年度评价报告予以发布。
 
+
+
+本次发布的供应商年度评分清单中共有共1010家供应商，包含中车株洲电力机车研究所有限公司风电事业部2022年度的全部供应商，即披露供应商名单数量占供应商总量的比率为100%。其中高、中风险供应商数量为：289家，占供应商总数的28.61%，审核率为100%；低风险供应商数量为721家，占供应商总数的71.39%，审核率为100%。
 ![3D1](../../docs/img/东阳/1评价表%20(1).png)
 ![3D1](../../docs/img/东阳/1评价表%20(2).png)
 ![3D1](../../docs/img/东阳/1评价表%20(3).png)
